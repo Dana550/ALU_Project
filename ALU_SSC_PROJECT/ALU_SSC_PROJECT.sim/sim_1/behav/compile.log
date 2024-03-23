@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/full_sub.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity full_sub
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/full_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity full_adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Substractor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Substractor
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Shift_Op.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Shift_Op
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Logic_Op.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Logic_Op
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Divider
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Booth_Multiplier.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Booth_Multiplier
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Ripple_Carry_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Ripple_Carry_Adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.srcs/sim_1/new/Alu_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Alu_tb

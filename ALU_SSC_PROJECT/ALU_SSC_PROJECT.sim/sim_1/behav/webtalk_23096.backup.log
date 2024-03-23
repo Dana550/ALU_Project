@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon Jan 15 12:26:05 2024
+# Process ID: 23096
+# Current directory: C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.sim/sim_1/behav/xsim.dir/Alu_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Dana Pode/ALU_SSC_PROJECT/ALU_SSC_PROJECT.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Dana -notrace
+invalid command name "[0FCC:2F74][2022-11-28T17:03:46]i001:"
+    while executing
+"[0FCC:2F74][2022-11-28T17:03:46]i001: Burn v3.10.4.4718, Windows v10.0 (Build 19045: Service Pack 0), path: C:\Windows\Temp\{3AD47D4C-3995-4D29-A9DB-E..."
+    (file "C:/Users/Dana" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Mon Jan 15 12:26:05 2024...

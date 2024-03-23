@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/full_sub.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/full_adder.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Substractor.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Shift_Op.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Logic_Op.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Divider.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Booth_Multiplier.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Ripple_Carry_Adder.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/ALU.vhd"
+vhdl xil_defaultlib  "../../../ALU_SSC_PROJECT.srcs/sim_1/new/Alu_tb.vhd"
+
+# Do not sort compile order
+nosort
